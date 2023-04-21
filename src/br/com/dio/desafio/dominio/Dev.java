@@ -31,7 +31,6 @@ public class Dev {
                 .stream()
                 .mapToDouble(Conteudo::calcularXp)
                 .sum();
-
     }
 
     public String getNome() {

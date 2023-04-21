@@ -68,7 +68,9 @@ public class Main {
         System.out.println("Conteúdos Concluídos, João: " + devJoao.getConteudosConcluidos());
         System.out.println("XP: " + devJoao.calcularTotalXp());
 
-
+        System.out.println("\n");
+        System.out.println("_________________________________________________________");
+        System.out.println("\n");
 
 
 
